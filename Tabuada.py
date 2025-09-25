@@ -1,6 +1,3 @@
-# Projeto 02 - Estruturas de repetição aplicadas em exemplos úteis
-
-# 1) Gerador de tabuada (FOR)
 print("=== Gerador de Tabuada ===")
 numero = int(input("Digite um número para ver a tabuada: "))
 
@@ -9,7 +6,6 @@ for i in range(1, 11):
 
 print("\n---")
 
-# 2) Validador de senha com tentativas (WHILE)
 print("=== Validador de Senha ===")
 senha_correta = "qa123"
 tentativas = 3
