@@ -1,7 +1,8 @@
 print("=== Gerador de Tabuada ===")
 numero = int(input("Digite um número para ver a tabuada: "))
 
-for i in range(1, 11):
+# Incluido por Sérgioooo
+for i in range(0, 11):
     print(f"{numero} x {i} = {numero * i}")
 
 print("\n---")
